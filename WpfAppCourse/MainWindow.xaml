@@ -1,0 +1,12 @@
+﻿<Window x:Class="CourseProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Button Content="Персональный аккаунт" Click="btnPersonalAccount_Click" Width="200" Height="50" Margin="5"/>
+            <Button Content="Каталог товаров" Click="btnProductCatalog_Click" Width="200" Height="50" Margin="5"/>
+            <Button Content="Админ панель" Click="btnAdminPanel_Click" Width="200" Height="50" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>
