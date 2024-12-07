@@ -1,0 +1,14 @@
+C:\Users\t3400\source\repos\ConsoleAppCourseProject\bin\Debug\net8.0\ConsoleAppCourseProject.exe
+C:\Users\t3400\source\repos\ConsoleAppCourseProject\bin\Debug\net8.0\ConsoleAppCourseProject.deps.json
+C:\Users\t3400\source\repos\ConsoleAppCourseProject\bin\Debug\net8.0\ConsoleAppCourseProject.runtimeconfig.json
+C:\Users\t3400\source\repos\ConsoleAppCourseProject\bin\Debug\net8.0\ConsoleAppCourseProject.dll
+C:\Users\t3400\source\repos\ConsoleAppCourseProject\bin\Debug\net8.0\ConsoleAppCourseProject.pdb
+C:\Users\t3400\source\repos\ConsoleAppCourseProject\obj\Debug\net8.0\ConsoleAppCourseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t3400\source\repos\ConsoleAppCourseProject\obj\Debug\net8.0\ConsoleAppCourseProject.AssemblyInfoInputs.cache
+C:\Users\t3400\source\repos\ConsoleAppCourseProject\obj\Debug\net8.0\ConsoleAppCourseProject.AssemblyInfo.cs
+C:\Users\t3400\source\repos\ConsoleAppCourseProject\obj\Debug\net8.0\ConsoleAppCourseProject.csproj.CoreCompileInputs.cache
+C:\Users\t3400\source\repos\ConsoleAppCourseProject\obj\Debug\net8.0\ConsoleAppCourseProject.dll
+C:\Users\t3400\source\repos\ConsoleAppCourseProject\obj\Debug\net8.0\refint\ConsoleAppCourseProject.dll
+C:\Users\t3400\source\repos\ConsoleAppCourseProject\obj\Debug\net8.0\ConsoleAppCourseProject.pdb
+C:\Users\t3400\source\repos\ConsoleAppCourseProject\obj\Debug\net8.0\ConsoleAppCourseProject.genruntimeconfig.cache
+C:\Users\t3400\source\repos\ConsoleAppCourseProject\obj\Debug\net8.0\ref\ConsoleAppCourseProject.dll

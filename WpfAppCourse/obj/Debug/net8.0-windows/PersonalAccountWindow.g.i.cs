@@ -68,7 +68,7 @@ namespace CourseProject {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfAppCourse;component/personalaccountwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfAppCourse;V1.0.0.0;component/personalaccountwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\PersonalAccountWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

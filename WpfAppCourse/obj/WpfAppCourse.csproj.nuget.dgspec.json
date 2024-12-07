@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\t3400\\source\\repos\\WpfAppCourse\\WpfAppCourse.csproj": {}
+    "C:\\Users\\t3400\\source\\repos\\ConsoleAppCourseProject\\WpfAppCourse\\WpfAppCourse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\t3400\\source\\repos\\WpfAppCourse\\WpfAppCourse.csproj": {
+    "C:\\Users\\t3400\\source\\repos\\ConsoleAppCourseProject\\WpfAppCourse\\WpfAppCourse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\t3400\\source\\repos\\WpfAppCourse\\WpfAppCourse.csproj",
+        "projectUniqueName": "C:\\Users\\t3400\\source\\repos\\ConsoleAppCourseProject\\WpfAppCourse\\WpfAppCourse.csproj",
         "projectName": "WpfAppCourse",
-        "projectPath": "C:\\Users\\t3400\\source\\repos\\WpfAppCourse\\WpfAppCourse.csproj",
+        "projectPath": "C:\\Users\\t3400\\source\\repos\\ConsoleAppCourseProject\\WpfAppCourse\\WpfAppCourse.csproj",
         "packagesPath": "C:\\Users\\t3400\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\t3400\\source\\repos\\WpfAppCourse\\obj\\",
+        "outputPath": "C:\\Users\\t3400\\source\\repos\\ConsoleAppCourseProject\\WpfAppCourse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
